@@ -3,5 +3,5 @@
 import math
 
 def main():
-    pass
+    print(math.pi)
 
